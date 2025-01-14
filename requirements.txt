@@ -1,0 +1,5 @@
+pytube
+yt-dlp
+opencv-python
+requests
+numpy
